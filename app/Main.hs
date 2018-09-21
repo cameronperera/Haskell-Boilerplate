@@ -1,14 +1,10 @@
 module Main where
 
-import Lib
-import Logic.Mastermind
-import System.Random
-
-ranNum :: IO Int
-ranNum = getStdRandom ( randomR (0, 5))
+import Logic.Math
+import Utility.Utility
 
 main :: IO ()
 main = do
-    someFunc
-    myFunction
-    ranNum >>= print
+    print $ squareRoot 4
+    print helloWorld
+    print $ helloFriend "Haskell"

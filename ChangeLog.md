@@ -1,3 +1,3 @@
-# Changelog for mastermind
+# Changelog for haskell-boilderplate
 
 ## Unreleased changes
