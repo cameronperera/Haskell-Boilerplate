@@ -52,6 +52,7 @@ tests:
     # This needs to be the same name of the top level directory
     - haskell-boilerplate
     - tasty
+    - tasty-discover
     - tasty-hunit
     - tasty-hspec
     - tasty-quickcheck
