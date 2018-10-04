@@ -37,7 +37,6 @@ executables:
     dependencies:
     # This needs to be the same name of the top level directory
     - haskell-boilerplate
-    - random
 
 tests:
   # Change name of executalbes to your project name
@@ -53,7 +52,4 @@ tests:
     - haskell-boilerplate
     - tasty
     - tasty-discover
-    - tasty-hunit
     - tasty-hspec
-    - tasty-quickcheck
-    - random
