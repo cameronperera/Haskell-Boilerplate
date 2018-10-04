@@ -1,9 +1,9 @@
 name:                haskell-boilerplate
 version:             0.1.0.0
-github:              "githubuser/haskell-boilerplate"
+github:              "devPerera221/haskell-boilerplate"
 license:             BSD3
 author:              "Cameron Perera"
-maintainer:          "cameron.perera@samaritanministries.org"
+maintainer:          "cameronrperera@gmail.com"
 copyright:           "2018 Cameron Perera"
 
 extra-source-files:
@@ -17,7 +17,7 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/githubuser/haskell-boilerplate#readme>
+description:         Please see the README on GitHub at <https://github.com/devPerera221/Haskell.Boilerplate#readme>
 
 dependencies:
 - base >= 4.7 && < 5
