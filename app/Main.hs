@@ -5,6 +5,6 @@ import Utility.Utility
 
 main :: IO ()
 main = do
-    print $ squareRoot 4
+    print $ square 4
     print helloWorld
     print $ helloFriend "Haskell"
