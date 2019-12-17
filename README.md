@@ -2,6 +2,8 @@
 
 ## Install Stack
 You can download Stack [here](https://docs.haskellstack.org/en/stable/README/#how-to-install)
+or [here](https://docs.haskellstack.org/en/stable/install_and_upgrade/)
+
 Stack is the package manager for Haskell projects
 
 ## Project Setup
