@@ -1,4 +1,4 @@
 module Logic.Math where
 
-squareRoot :: Int -> Int
-squareRoot x = x * x 
+square :: Int -> Int
+square x = x * x 
